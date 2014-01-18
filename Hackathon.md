@@ -40,11 +40,9 @@ Tendering currency is a job of a teller, autenicating bills and crediting/debiti
 Although this is where the line is done.
 Users of bitcoin dont trust a unit, unlike a bank teller
 
-bla bla sean finish this
-http://news.cnet.com/8301-17938_105-20005010-1.html
+This open sourced method for bitcoin distribution machines inspires trust within the bitcoin transaction
 
-
-what we are really making is a vending machine
+what we are really making is a vending machine for bitcoin...
 (clever name for bilater, cashing out machine*)
 
 
